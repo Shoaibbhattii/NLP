@@ -11,7 +11,7 @@ Laplace Smoothing: Implements Laplace smoothing to handle unseen words in langua
 Clone the repository to your local machine:
 bash
 Copy code
-
+git clone https://github.com/Shoaibbhattii/NLP.git
 Open and explore each Jupyter Notebook (*.ipynb) to understand the code and concepts.
 Run the code cells interactively to see the results and experiment with different inputs.
 # Dependencies
